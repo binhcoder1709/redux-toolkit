@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "user_name": "Nam",
+      "age": 19,
+      "gender": "male",
+      "date_of_birth": "17/08/2003",
+      "address": "hai phong",
+      "email": "hn6006078@gmail.com"
+    }
+  ]
+}
